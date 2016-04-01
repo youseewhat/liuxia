@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- 系统主色彩  蓝色 -->
+    <color name="main_blue_background">#59aded</color>
+     <!-- 蓝色按钮按下的的颜色 -->
+     <color name="blue_bt_press">#63B8FF</color>
+    <color name="white">#FFFFFF</color>
+    
+</resources>

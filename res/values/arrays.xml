@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<!-- 首页底部label -->    
+    <string-array name="weight_label">
+        <item name = "home">@string/home</item>
+        <item name = "publish">@string/publish</item>
+        <item name = "mine">@string/mine</item>
+    </string-array>
+    
+</resources>

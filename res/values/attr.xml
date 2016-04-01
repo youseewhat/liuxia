@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 底部导航label -->
+    <declare-styleable name="Tab_Weight">
+        <attr name="tab_label" format="reference" />
+    </declare-styleable>
+
+</resources>

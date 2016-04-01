@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">留下</string>
+    <string name="home">首页</string>
+    <string name="publish">发布</string>
+    <string name="mine">我的</string>
+    
+
+</resources>
